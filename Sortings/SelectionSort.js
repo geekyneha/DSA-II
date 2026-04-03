@@ -1,0 +1,1 @@
+// selection sort is a simple sorting algorithm that repeatedly selects the smallest (or largest) element form the unsorted portion of the list and moves it to the end of the sorted portion. It has a time complexity of O(n^2) and is not efficient for large datasets.
